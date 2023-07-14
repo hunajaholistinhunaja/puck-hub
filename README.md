@@ -13,6 +13,13 @@ Features
 
 -   Push Notifications: Get notified about major updates and never miss a beat.
 
+## Table of Contents
+
+-   [Getting Started](#getting-started)
+-   [Contributing](#contributing)
+-   [License](#license)
+-   [Contact](#contact)
+
 ## Getting Started
 
 ### Prerequisites
@@ -49,7 +56,7 @@ flutter pub get
 flutter run
 ```
 
-## Contributions
+## Contributing
 
 We appreciate your contributions to the project. To ensure a smooth contribution process, please follow these steps:
 
@@ -58,13 +65,13 @@ We appreciate your contributions to the project. To ensure a smooth contribution
 2. Clone the Repository: This creates a local copy of the repository on your machine
 
 ```bash
-git clone https://github.com/<your-username>/puck-hub.git
+git clone https://github.com/nikohoffren/puck-hub.git
 ```
 
 3. Create a New Branch: Create a new branch where you'll work on your feature or fix
 
 ```bash
-git checkout -b <branch-name>
+git switch -c <branch-name>
 ```
 
 4. Make Your Changes: Make the necessary changes in your local copy of the project
@@ -72,7 +79,7 @@ git checkout -b <branch-name>
 5. Add your changes
 
 ```bash
-git add .
+git add <file-that-you-changed>
 ```
 
 6. Commit Your Changes: Commit your changes using git
